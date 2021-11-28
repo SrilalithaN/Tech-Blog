@@ -33,5 +33,11 @@
 Warning: New data is stored on Heroku for an indeterminate period of time. At least once a day the dynos will be restarted and any new data included new users might be wiped out.
 
 # Assets
-* The following are the screenshots of the application
+* The following are the screenshots of the application: 
+* Homepage  ![](assets/image-1.png)
+* Login ![](assets/image-2.png)
+* Signup ![](assets/image-3.png)
+* Create-post ![](assets/image-4.png)
+* Add comment ![](assets/image-5.png)
+
 * The following is the deployed link on heroku:
