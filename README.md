@@ -40,4 +40,4 @@ Warning: New data is stored on Heroku for an indeterminate period of time. At le
 * Create-post ![](assets/image-4.png)
 * Add comment ![](assets/image-5.png)
 
-* The following is the deployed link on heroku:
+* The following is the deployed link on heroku: https://tech-blog-sri.herokuapp.com/

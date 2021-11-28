@@ -5,8 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "seed": "node seeds/index.js"
+    "start": "npm start",
+    "seed": "npm run seed"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,8 @@
     "express-session": "^1.17.1",
     "mysql2": "^2.2.5",
     "sequelize": "^6.3.5"
+  },
+  "devDependencies": {
+    "@creativebulma/bulma-divider": "^1.1.0"
   }
 }
